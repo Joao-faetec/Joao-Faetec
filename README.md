@@ -6,7 +6,7 @@
 - 👨‍💻 Desenvolvedor Full Stack Jr em formação, apaixonado por criar soluções que unam design funcional e código bem estruturado.
 
 🚀 Tecnologias e Ferramentas
-- Front-end: HTML, CSS
-- Back-end: APIs REST
+- Front-end: HTML, CSS, JavaScript
+- Back-end: PHP
 - Bancos de dados: MySQL, PostgreSQL
 
