@@ -14,7 +14,7 @@ Reach me out here: <a href="mailto:caioandres2112@gmail.com" target="__blank">ca
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/joaolucasazevedo)
 
 ### Stacks 🚀
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,mysql,postgreesql,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,mysql,github,git)](https://skillicons.dev)
 
 #### Nationality
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil")
