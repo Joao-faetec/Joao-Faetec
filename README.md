@@ -7,8 +7,6 @@
 - 👨‍💻 Apaixonado por tudo o que envolve tecnologia.
 - 📩 Contato: joaolucasmazevedo2408@gmail.com
 
-Reach me out here: <a href="mailto:caioandres2112@gmail.com" target="__blank">caioandres2112@gmail.com</a>
-
 ### Tech content creator
 [![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@azevedojao)
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_azevedojao)
