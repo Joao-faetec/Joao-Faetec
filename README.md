@@ -5,7 +5,7 @@
 - 🎓 Estudante - Curso Técnico de Informática(Faetec);
 - 🎯 Objetivo: Tornar-me um especialista em Banco de Dados e Inteligência artificial;
 - 👨‍💻 Apaixonado por tudo o que envolve tecnologia.
-- 📩 contato: joaolucasmazevedo2408@gmail.com
+- 📩 Contato: joaolucasmazevedo2408@gmail.com
 
 Reach me out here: <a href="mailto:caioandres2112@gmail.com" target="__blank">caioandres2112@gmail.com</a>
 
