@@ -1,4 +1,4 @@
-## João Lucas M. Azevevedo
+## João Lucas M. Azevevedo  ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil")
 
 ```Database and IA```
 
@@ -15,5 +15,5 @@
 ### Stacks
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,mysql,github,git)](https://skillicons.dev)
 
-#### Nationality  ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil")
+#### Nationality 
 
