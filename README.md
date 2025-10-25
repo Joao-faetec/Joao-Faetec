@@ -1,4 +1,5 @@
-## ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") João Lucas M. Azevevedo  
+## João Lucas M. Azevevedo  
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") 
 ```Database and IA```
 
 - 🎓 Estudante - Curso Técnico de Informática(Faetec);
