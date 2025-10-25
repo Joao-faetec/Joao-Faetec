@@ -1,4 +1,4 @@
-# João Lucas M. Azevevedo
+## João Lucas M. Azevevedo
 
 ```Database and IA```
 
