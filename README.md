@@ -1,5 +1,5 @@
 ## João Lucas M. Azevevedo  
-```Database and IA```
+```Database and AI```
 
 - 🎓 Estudante - Curso Técnico de Informática(Faetec);
 - 🎯 Objetivo: Tornar-me um especialista em Banco de Dados e Inteligência artificial;
