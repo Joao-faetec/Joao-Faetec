@@ -11,6 +11,6 @@
 [![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@azevedojao)
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/joaolucasazevedo)
 
-### Stacks
+### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,mysql,github,git)](https://skillicons.dev)
 
