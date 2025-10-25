@@ -1,5 +1,4 @@
 ## João Lucas M. Azevevedo  
-![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") 
 ```Database and IA```
 
 - 🎓 Estudante - Curso Técnico de Informática(Faetec);
@@ -8,8 +7,8 @@
 - 📩 Contato: joaolucasmazevedo2408@gmail.com
 
 ### Social media
-[![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@azevedojao)
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_azevedojao)
+[![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@azevedojao)
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/joaolucasazevedo)
 
 ### Stacks
