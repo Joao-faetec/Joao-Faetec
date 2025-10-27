@@ -12,5 +12,5 @@
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/joaolucasazevedo)
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,mysql,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,reactnative,php,mysql,github,git)](https://skillicons.dev)
 
