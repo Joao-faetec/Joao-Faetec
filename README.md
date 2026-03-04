@@ -9,8 +9,14 @@
 ### Social media
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/azevedo.tech)
 [![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@azevedo-tech)
-
-[![TIKTOK](https://go-skill-icons.vercel.app/api/icons?i=tiktok)](https://www.tiktok.com/@azevedo.techh)
+<a href="https://www.tiktok.com/@azevedo.techh">
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tiktok/tiktok-original.svg"
+    width="52"
+    height="52"
+    style="border-radius:50%;"
+  />
+</a>
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,php,mysql,github,git)](https://skillicons.dev)
