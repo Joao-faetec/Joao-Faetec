@@ -1,4 +1,4 @@
-`Student` . `Ambassador @Rocketseat` · `Freelancer`
+`Digital Content Creator` · `Ambassador @Rocketseat` 
 
 - 🎓 Técnico de Informática(Faetec);
 - 👨‍🎓 Cursando: Bacharelado em Ciencias Exatas UFJF;
