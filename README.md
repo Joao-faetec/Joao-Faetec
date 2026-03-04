@@ -1,5 +1,4 @@
-## João Lucas   
-```Database and AI```
+`Student` . `Ambassador @Rocketseat` · `Freelancer`
 
 - 🎓 Técnico de Informática(Faetec);
 - 👨‍🎓 Cursando: Bacharelado em Ciencias Exatas UFJF;
