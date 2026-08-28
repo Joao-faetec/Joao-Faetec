@@ -16,9 +16,6 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=youtube" height="52" alt="YouTube" />
   </a>
   
-  <a href="https://www.tiktok.com/@azevedo.tech" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/016/716/485/non_2x/tiktok-icon-free-png.png" height="52" alt="TikTok" />
-  </a>
 </p>
 
 ### Skills
