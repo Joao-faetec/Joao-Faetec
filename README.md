@@ -5,16 +5,6 @@
 - 🎯 Objetivo: Tornar-me Cientista da Computação;
 - 👨‍💻 Apaixonado por tudo o que envolve tecnologia.
 - 📩 Contato: joaolucas.azevedo.contato@gmail.com
-
-### Social media
-<p align="left">
-  <a href="https://www.instagram.com/azevedo.tech" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="52" alt="Instagram" />
-  </a>
-  
-  <a href="https://www.youtube.com/@azevedo-tech" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=youtube" height="52" alt="YouTube" />
-  </a>
   
 </p>
 
